@@ -44,7 +44,7 @@ for (let i = 2; i <= n; i++) {
 
 #### Web designer
 [Dikiy Zver](https://dikiyzver.com/)  
-*September 2016-May 2018 (1 year and 9 months)*
+*September 2016 - May 2018 (1 year and 9 months)*
 
 1. Developing site prototype
 2. Designing web interfaces and creating site content
