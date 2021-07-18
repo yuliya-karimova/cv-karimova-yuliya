@@ -1,3 +1,5 @@
+![Photo](https://avatars.githubusercontent.com/u/39742618?s=400&u=e3f5206dfbdeaafae1885c51b3d122d7c54f073c&v=4)
+
 # Yuliya Karimova
 
 ## Contacts
