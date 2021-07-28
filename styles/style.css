@@ -9,12 +9,20 @@ body {
     line-height: 1.7;
 }
 
+.content {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    background: #f8f8f8;
+}
+
 header, 
 footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: auto;
+    width: 100%;
 }
 
 .header-content {
@@ -27,7 +35,7 @@ footer {
 .wrapper {
     display: flex;
     flex-direction: row;
-    width: 60%;
+    width: 90%;
     margin: auto;
     margin-top: 40px;
     padding: 60px 0;
@@ -118,13 +126,21 @@ footer > p {
 @media only screen
 and (min-device-width: 768px)
 and (max-device-width: 1280px) {
+    .content {
+        width: 100%;
+    }
+    
     .wrapper {
-        width: 80%;
+        width: 90%;
     }
 }
 
 @media only screen
 and (max-device-width: 768px) {
+    .content {
+        width: 100%;
+    }
+    
     .wrapper {
         flex-direction: column;
         width: 80%;
